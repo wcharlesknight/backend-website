@@ -1,5 +1,4 @@
 /Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Nuget.Config
-/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/appsettings.Development.json
 /Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/appsettings.json
 /Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/backend-website
 /Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/backend-website.deps.json
@@ -32,3 +31,11 @@
 /Users/charlieknight/Projects/backend-website/obj/Debug/net6.0/backend-website.pdb
 /Users/charlieknight/Projects/backend-website/obj/Debug/net6.0/backend-website.genruntimeconfig.cache
 /Users/charlieknight/Projects/backend-website/obj/Debug/net6.0/ref/backend-website.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Humanizer.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Npgsql.dll
+/Users/charlieknight/Projects/backend-website/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
