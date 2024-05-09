@@ -1,15 +1,18 @@
 using Microsoft.EntityFrameworkCore;
-using Website.Models;
+using BackendWebsite.Models;
 
 namespace WebsiteContext
 {
-public class ApplicationDbContext : DbContext
-{
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-        : base(options)
+    public class ApplicationDbContext : DbContext
     {
-    }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+           : base(options)
+        {
+        }
 
-    public DbSet<Comment> Comments { get; set; }
-}
+        public DbSet<Comment> Comments
+        {
+            get; set;
+        }
+    }
 }
